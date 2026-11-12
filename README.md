@@ -33,20 +33,22 @@ The full tool catalog for 0xleetv Studio (UI/UX and interaction design). Every r
 ## Tool directory
 
 17. [NoSignups](https://github.com/0xleetv/NoSignups): directory of 274 open source, in browser tools that need no signup. Categories: development, design and graphics, productivity, media, writing, data, privacy and more.
+18. [delphitools](https://github.com/0xleetv/delphitools): privacy-first, local-only web toolkit with 80+ in-browser utilities for digital creatives, UI/UX designers, and frontend developers (0BSD license). Client-side processing with zero server uploads, tracking, or logins. Key studio picks include SVG Optimiser, Palette and Tailwind Shade Generator, Contrast Checker, Font File Explorer, PX to REM Calculator, Image Compressor and Converter, Video to GIF, Video Frame Extractor, and Audio Normaliser. Live suite at [delphi.tools](https://delphi.tools). Detailed studio tool guide in [DELPHI_TOOLS.md](DELPHI_TOOLS.md).
 
 ## Study references
 
 Extracted code kept for mechanics and architecture study, not for redeployment.
 
-18. [CityRT](https://github.com/0xleetv/cityrt): extracted client bundle from a live city builder site: canvas simulation loop, touch gesture controls, district registry.
-19. [AutoDraw](https://github.com/0xleetv/autodraw): extracted Google AutoDraw assets for drawing suggestion mechanics.
-20. [Coddy Focus](https://github.com/0xleetv/coddy-focus): open source website blocker and focus timer; focus mechanics reference.
+19. [CityRT](https://github.com/0xleetv/cityrt): extracted client bundle from a live city builder site: canvas simulation loop, touch gesture controls, district registry.
+20. [AutoDraw](https://github.com/0xleetv/autodraw): extracted Google AutoDraw assets for drawing suggestion mechanics.
+21. [Coddy Focus](https://github.com/0xleetv/coddy-focus): open source website blocker and focus timer; focus mechanics reference.
 
 ## Indexed sites (not forked)
 
-- [Sketchfab](https://sketchfab.com): 3D model library and viewer.
-- [PNGimg](https://pngimg.com): 100,000+ transparent PNG cutouts.
-- [Uilora](https://www.uilora.com): 700+ animated components for web and mobile, installed through its CLI.
+* [Sketchfab](https://sketchfab.com): 3D model library and viewer.
+* [PNGimg](https://pngimg.com): 100,000+ transparent PNG cutouts.
+* [Uilora](https://www.uilora.com): 700+ animated components for web and mobile, installed through its CLI.
+* [delphi.tools](https://delphi.tools): privacy-first in-browser toolkit of 80+ media, color, typography, asset, and developer utilities.
 
 ---
 Maintained as the studio's single source for build inputs. Agents and collaborators: pull repos by name from this account.
