@@ -18,30 +18,31 @@ The full tool catalog for 0xleetv Studio (UI/UX and interaction design). Every r
 9. [Perfect Freehand](https://github.com/0xleetv/perfect-freehand): pressure sensitive freehand drawing.
 10. [Hover Effect](https://github.com/0xleetv/hover-effect): image distortion and hover animations.
 11. [Atropos](https://github.com/0xleetv/atropos): touch friendly 3D parallax hover effects.
+12. [Rare UI](https://github.com/0xleetv/rare-ui): rare animated React components on Tailwind and Motion, installed through the shadcn CLI (32 in the registry: AI chat surfaces like streaming response, model picker and inline AI status, plus gooey nav, fluid orb, odometer counter, OTP input and more). License is MIT plus Commons Clause plus a required attribution: any piece that ships a Rare UI component must show a visible credit link to rareui.com, and the components themselves cannot be resold.
 
 ## 3D and WebGL
 
-12. [City Tour](https://github.com/0xleetv/city-tour): procedurally generated city built with WebGL and three.js.
-13. [Google Model Viewer](https://github.com/0xleetv/model-viewer): interactive 3D models on the web and in AR.
-14. [Sketchfab Viewer API](https://github.com/0xleetv/viewer-api): embed and drive Sketchfab 3D viewers.
+13. [City Tour](https://github.com/0xleetv/city-tour): procedurally generated city built with WebGL and three.js.
+14. [Google Model Viewer](https://github.com/0xleetv/model-viewer): interactive 3D models on the web and in AR.
+15. [Sketchfab Viewer API](https://github.com/0xleetv/viewer-api): embed and drive Sketchfab 3D viewers.
 
 ## Maps, typography and print
 
-15. [Terraink](https://github.com/0xleetv/terraink): cartographic poster engine, vector maps with print export.
-16. [Coddy Round](https://github.com/0xleetv/coddy-round): Audiowide rounded display typeface.
+16. [Terraink](https://github.com/0xleetv/terraink): cartographic poster engine, vector maps with print export.
+17. [Coddy Round](https://github.com/0xleetv/coddy-round): Audiowide rounded display typeface.
 
 ## Tool directory
 
-17. [NoSignups](https://github.com/0xleetv/NoSignups): directory of 274 open source, in browser tools that need no signup. Categories: development, design and graphics, productivity, media, writing, data, privacy and more.
-18. [delphitools](https://github.com/0xleetv/delphitools): privacy-first, local-only web toolkit with 80+ in-browser utilities for digital creatives, UI/UX designers, and frontend developers (0BSD license). Client-side processing with zero server uploads, tracking, or logins. Key studio picks include SVG Optimiser, Palette and Tailwind Shade Generator, Contrast Checker, Font File Explorer, PX to REM Calculator, Image Compressor and Converter, Video to GIF, Video Frame Extractor, and Audio Normaliser. Live suite at [delphi.tools](https://delphi.tools). Detailed studio tool guide in [DELPHI_TOOLS.md](DELPHI_TOOLS.md).
+18. [NoSignups](https://github.com/0xleetv/NoSignups): directory of 274 open source, in browser tools that need no signup. Categories: development, design and graphics, productivity, media, writing, data, privacy and more.
+19. [delphitools](https://github.com/0xleetv/delphitools): privacy-first, local-only web toolkit with 80+ in-browser utilities for digital creatives, UI/UX designers, and frontend developers (0BSD license). Client-side processing with zero server uploads, tracking, or logins. Key studio picks include SVG Optimiser, Palette and Tailwind Shade Generator, Contrast Checker, Font File Explorer, PX to REM Calculator, Image Compressor and Converter, Video to GIF, Video Frame Extractor, and Audio Normaliser. Live suite at [delphi.tools](https://delphi.tools). Detailed studio tool guide in [DELPHI_TOOLS.md](DELPHI_TOOLS.md).
 
 ## Study references
 
 Extracted code kept for mechanics and architecture study, not for redeployment.
 
-19. [CityRT](https://github.com/0xleetv/cityrt): extracted client bundle from a live city builder site: canvas simulation loop, touch gesture controls, district registry.
-20. [AutoDraw](https://github.com/0xleetv/autodraw): extracted Google AutoDraw assets for drawing suggestion mechanics.
-21. [Coddy Focus](https://github.com/0xleetv/coddy-focus): open source website blocker and focus timer; focus mechanics reference.
+20. [CityRT](https://github.com/0xleetv/cityrt): extracted client bundle from a live city builder site: canvas simulation loop, touch gesture controls, district registry.
+21. [AutoDraw](https://github.com/0xleetv/autodraw): extracted Google AutoDraw assets for drawing suggestion mechanics.
+22. [Coddy Focus](https://github.com/0xleetv/coddy-focus): open source website blocker and focus timer; focus mechanics reference.
 
 ## Indexed sites (not forked)
 
